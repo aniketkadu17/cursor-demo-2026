@@ -1,3 +1,6 @@
+## Demo link
+https://cursor-clone-by-aniket.netlify.app/
+
 ## Description
 
 This project is a static website replica of the official Cursor landing page (cursor.com). It showcases the design and layout of the original site, including sections for features, testimonials, changelog, and more. The clone is created for educational and portfolio purposes to demonstrate front-end development skills.
