@@ -30,7 +30,7 @@ nav {
 }
 
 .nav-div {
-  width: 69%;
+  width: 80%;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -73,7 +73,7 @@ nav div button {
 
 /* Main Container */
 .main-container {
-  width: 68%;
+  width: 80%;
   margin: auto;
 }
 
@@ -277,8 +277,8 @@ main {
 
 #three-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
   margin-bottom: 150px;
 }
 
